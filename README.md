@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2026 by anhkiet150905-stack](https://github.com/anhkiet150905-stack/math-uttil-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/anhkiet150905-stack/math-uttil-2035/actions/workflows/ci-script.yml)
 # Welcom to math Utility
 
 ### You will find in thí repo the following stuff:
